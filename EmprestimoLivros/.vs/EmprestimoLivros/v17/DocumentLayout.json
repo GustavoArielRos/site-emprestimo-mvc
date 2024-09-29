@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\migrations\\20240929164956_criacaodobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\migrations\\20240929164956_criacaodobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\guga_pc\\desktop\\projetos-git\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240929164956_CriacaoDoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Migrations\\20240929164956_CriacaoDoBanco.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Migrations\\20240929164956_CriacaoDoBanco.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Migrations\\20240929164956_CriacaoDoBanco.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Migrations\\20240929164956_CriacaoDoBanco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:49:57.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:17:04.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Program.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Program.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Program.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:10:58.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\appsettings.json",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\appsettings.json",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\appsettings.json",
+              "RelativeToolTip": "EmprestimoLivros\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T20:46:58.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmprestimosModel.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Models\\EmprestimosModel.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Models\\EmprestimosModel.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Models\\EmprestimosModel.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Models\\EmprestimosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:21:17.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
