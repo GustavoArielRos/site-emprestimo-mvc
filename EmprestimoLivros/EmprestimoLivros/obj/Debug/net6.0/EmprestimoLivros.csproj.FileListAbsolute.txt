@@ -64,3 +64,4 @@ C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\Empre
 C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.pdb
 C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.genruntimeconfig.cache
 C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\obj\Debug\net6.0\ref\EmprestimoLivros.dll
+C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.sourcelink.json

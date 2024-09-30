@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Guga_Pc/Desktop/projetos-git/site-emprestimo-mvc/EmprestimoLivros/EmprestimoLivros/Views/Emprestimo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzdGltb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Guga_Pc/Desktop/projetos-git/site-emprestimo-mvc/EmprestimoLivros/EmprestimoLivros/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
