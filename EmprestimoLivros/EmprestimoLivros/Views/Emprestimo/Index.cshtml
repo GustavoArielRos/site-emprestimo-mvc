@@ -4,8 +4,30 @@
 
     <div class="d-flex justify-content-between align-items-center mb-5">
         <h1>Emprestimos</h1>
-        <a class="btn btn-success mx-2" asp-controller="Emprestimo" asp-action="Cadastrar">Cadastrar novo empréstimo</a>
+
+        <div>
+            <a class="btn btn-success mx-2" asp-controller="Emprestimo" asp-action="Exportar">Exportar</a>
+            <a class="btn btn-success mx-2" asp-controller="Emprestimo" asp-action="Cadastrar">Cadastrar novo empréstimo</a>
+        </div>
+
+        
     </div>
+
+    @*adicionando as mensagens de sucesso ou erro*@
+    @if(TempData["MensagemSucesso"] != null)
+    {
+        <div>
+            @TempData["MensagemSucesso"]
+
+        </div>
+    }
+
+    @if(TempData["MensagemErro"] != null)
+    {
+        <div class="alert alert-danger text-light" role="alert">
+            @TempData["MensagemSucesso"]
+        </div>
+    }
 
     <table class="table table-dark table-hover">
         <thead>
@@ -13,7 +35,7 @@
                 <th scope="col">Recebedor</th>
                 <th scope="col">Fornecedor</th>
                 <th scope="col">Livro</th>
-                <th scope="col">última atualização</th>
+                <th scope="col">Data Empréstimo</th>
                 <th></th>
             </tr>
         </thead>
