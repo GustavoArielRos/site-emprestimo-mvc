@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\EmprestimoLivros.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\materia.css",
+      "PackagePath": "staticwebassets\\css\\materia.css"
+    },
+    {
       "Id": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

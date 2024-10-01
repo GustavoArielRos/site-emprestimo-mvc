@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W/K44ZdqKoN8PKqtGZ1wBM0hbzDeRMA/kKTAivaD6wE=",
+  "Hash": "9EajNrYE7MvHc0BlPT7ki4L1+GaD17SfgXQXObnhxbM=",
   "Source": "EmprestimoLivros",
   "BasePath": "_content/EmprestimoLivros",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmprestimoLivros.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\materia.css",
+      "SourceId": "EmprestimoLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimoLivros",
+      "RelativePath": "css/materia.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\materia.css"
     },
     {
       "Identity": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\site.css",
