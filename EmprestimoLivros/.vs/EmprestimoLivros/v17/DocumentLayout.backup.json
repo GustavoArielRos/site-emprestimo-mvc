@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\services\\loginservice\\ilogininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\services\\loginservice\\ilogininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\services\\loginservice\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\services\\loginservice\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\views\\login\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\login\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\dto\\usuarioregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\dto\\usuarioregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|c:\\users\\gustavoar\\desktop\\projetos-pessoal\\site-emprestimo-mvc\\emprestimolivros\\emprestimolivros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11A5E1F5-3190-4C23-8510-B221ED1A136E}|EmprestimoLivros\\EmprestimoLivros.csproj|solutionrelative:emprestimolivros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +70,132 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Program.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Program.cs",
+              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Program.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:46:13.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EmprestimoLivros\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAACoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T23:13:51.099Z",
+              "Title": "ILoginInterface.cs",
+              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Services\\LoginService\\ILoginInterface.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Services\\LoginService\\ILoginInterface.cs",
+              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Services\\LoginService\\ILoginInterface.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Services\\LoginService\\ILoginInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:39:23.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmprestimosModel.cs",
-              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Models\\EmprestimosModel.cs",
-              "RelativeDocumentMoniker": "EmprestimoLivros\\Models\\EmprestimosModel.cs",
-              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Models\\EmprestimosModel.cs",
-              "RelativeToolTip": "EmprestimoLivros\\Models\\EmprestimosModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Services\\LoginService\\LoginService.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Services\\LoginService\\LoginService.cs",
+              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Services\\LoginService\\LoginService.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Services\\LoginService\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T21:52:02.027Z"
+              "WhenOpened": "2024-10-02T13:38:45.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Dto\\UsuarioRegisterDto.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Dto\\UsuarioRegisterDto.cs",
+              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Dto\\UsuarioRegisterDto.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Dto\\UsuarioRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:46:32.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:35:12.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:25:22.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Views\\Login\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Login\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Views\\Login\\Registrar.cshtml",
+              "RelativeToolTip": "EmprestimoLivros\\Views\\Login\\Registrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T01:40:58.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "EmprestimoLivros\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T01:00:30.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "EmprestimoLivros\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:59:31.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\appsettings.json",
+              "RelativeDocumentMoniker": "EmprestimoLivros\\appsettings.json",
+              "ToolTip": "C:\\Users\\gustavoar\\Desktop\\projetos-pessoal\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\appsettings.json",
+              "RelativeToolTip": "EmprestimoLivros\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T00:31:27.181Z"
             }
           ]
         }

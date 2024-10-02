@@ -13,5 +13,8 @@ namespace EmprestimoLivros.Data
         //criando a tabela pro sql
         public DbSet<EmprestimosModel> Emprestimos { get; set; }
 
+        //criando a tabela que possui as  informações do usuário
+        public DbSet<UsuarioModel> Usuarios { get; set; }
+
     }
 }
