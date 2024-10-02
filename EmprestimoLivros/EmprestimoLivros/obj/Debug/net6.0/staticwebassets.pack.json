@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\img\\read_book_study_icon-icons.com_51077.png",
+      "PackagePath": "staticwebassets\\img\\read_book_study_icon-icons.com_51077.png"
+    },
+    {
       "Id": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

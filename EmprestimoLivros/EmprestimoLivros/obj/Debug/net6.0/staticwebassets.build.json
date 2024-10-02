@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9EajNrYE7MvHc0BlPT7ki4L1+GaD17SfgXQXObnhxbM=",
+  "Hash": "abb5Cae8LDB+PEs8D2ERyNRC/97d5bzoKcMuR7Jeoi4=",
   "Source": "EmprestimoLivros",
   "BasePath": "_content/EmprestimoLivros",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\img\\read_book_study_icon-icons.com_51077.png",
+      "SourceId": "EmprestimoLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimoLivros",
+      "RelativePath": "img/read_book_study_icon-icons.com_51077.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\read_book_study_icon-icons.com_51077.png"
     },
     {
       "Identity": "C:\\Users\\Guga_Pc\\Desktop\\projetos-git\\site-emprestimo-mvc\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",

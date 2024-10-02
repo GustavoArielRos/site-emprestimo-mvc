@@ -65,3 +65,10 @@ C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\Empre
 C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.genruntimeconfig.cache
 C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\obj\Debug\net6.0\ref\EmprestimoLivros.dll
 C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.sourcelink.json
+C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\bin\Debug\net6.0\Irony.dll
+C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Guga_Pc\Desktop\projetos-git\site-emprestimo-mvc\EmprestimoLivros\EmprestimoLivros\bin\Debug\net6.0\XLParser.dll
