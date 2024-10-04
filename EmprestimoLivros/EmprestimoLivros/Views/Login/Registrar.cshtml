@@ -3,6 +3,11 @@
 @using EmprestimoLivros.Dto
 @model UsuarioRegisterDto
 
+@*identificado qual a layout vai ser usada nessa view*@
+@{
+    Layout = "_LayoutDeslogada";
+}
+
 
 
 @if (TempData["MensagemSucesso"] != null)

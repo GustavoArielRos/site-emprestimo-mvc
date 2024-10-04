@@ -7,5 +7,7 @@ namespace EmprestimoLivros.Services.LoginService
     {
         //task é porque  é assíncrono, por isso o retorno é uma task
         Task<ResponseModal<UsuarioModel>> RegistrarUsuario(UsuarioRegisterDto usuarioRegisterDto);
+
+        Task<ResponseModal<UsuarioModel>> Login(UsuarioLoginDto usuarioLoginDto);
     }
 }

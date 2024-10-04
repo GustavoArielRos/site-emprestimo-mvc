@@ -18,5 +18,18 @@ namespace EmprestimoLivros.Services.SenhaService
 
             }
         }
+        //método que retorna um true or false
+        public bool VerificaSenha(string senha, byte[] senhaHash, byte[] senhaSalt)
+        {
+            //var hmac = new HMACSHA512(senhaSalt), vou gerar um hash de acordo com a senha que eu passei (senhaSalt)
+            using (var hmac = new HMACSHA512(senhaSalt))
+            {
+                //System.Text.Encoding.UTF8.GetBytes(senha), convertendo a string senha em um array de bytes
+                //hmac.ComputeHash,calcula o hash da entrada fornecida, combina o hash do hmca(senhaSalt) com a  "senha" e gera um hash único para essa combinação
+                var computedHash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(senha));
+                //SequenceEqual, compara dois array de bytes para ver se são iguais, se forem retornam true
+                return computedHash.SequenceEqual(senhaHash);
+            }
+        }
     }
 }
